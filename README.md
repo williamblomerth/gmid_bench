@@ -1,4 +1,4 @@
-# gm/Id Bench - WIP#
+# gm/Id Bench - WIP
 ## A "benchtop" tool for optimizing transistor sizes ##
 Based on the gm/Id methodology and the python package implemented by Boris Murmann. Avoids becoming a "SPICE Monkey" by intentionally calculating transistor sizes given desired behavior, rather than changing the design until it passes in testbench.
 - [ISCC 2026 Lecture](https://youtu.be/oNDmJ2a3tWI?si=XNPtrDgDew_fCttw)
